@@ -1,7 +1,4 @@
-#Logger assignment 
-
-## Technology Used:
-Java, Spring Boot, AOP, HSQLDB, Mockito
+#Logger assignment
 
 ## Task:
 Give an input file which is a log file contains lines of log entries as shown below. This log file contains lines of log entries where a single line denotes either the start or finish of an event. The type of log can be APPLICATION_LOG which tells that the log is produced by Application Server. The task is to read this file and create events.
